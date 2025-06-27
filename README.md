@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Durvesh Patil
 
-<!--
-**durvesh66/durvesh66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science graduate | 🤖 AI/ML Enthusiast | 💻 Backend & LLM Developer
 
-Here are some ideas to get you started:
+🔭 I'm currently working on:
+- 🧠 LLM-based RAG systems and fine-tuning
+- 📈 Crop classification and yield prediction using CNNs (VGG, YOLO)
+- ⚙️ Backend APIs for AI applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm exploring:
+- Distributed training techniques
+- Vector databases for semantic search
+- Building production-ready AI pipelines
+
+📫 How to reach me:
+- Email: d.patil6113@gmail.com
+- LinkedIn: [linkedin.com/in/durvesh66](https://linkedin.com/in/durvesh66)
+- Portfolio: [Coming Soon]
+
+---
+
+🧰 Tech Stack:
+`Python` `PyTorch` `TensorFlow` `FastAPI` `LangChain` `OpenCV` `YOLOv8` `Git` `MongoDB`
+
+📊 GitHub Stats:
+![Durvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=durvesh66&show_icons=true&theme=radical)
